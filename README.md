@@ -1,4 +1,4 @@
-HariJavaEE
+MiddlewareJEE
 ==========
 Project Omazon: An online shopping store with MS SQL Server as backend and JSP/JSF as front end. All database communication are through the ORM Mapper, Hibernate. The featues are as below:
 Customer and Product Data Management
