@@ -1,0 +1,30 @@
+@CHARSET "ISO-8859-1";
+
+div.img
+	{
+	  margin: 5px;
+	  padding: 5px;
+	  border: 1px solid #0000ff;
+	  height: auto;
+	  width: auto;
+	  float: left;
+	  text-align: center;
+	}	
+div.img img
+	{
+	  display: inline;
+	  margin: 5px;
+	  border: 1px solid #ffffff;
+	}
+div.img a:hover img {border: 1px solid #0000ff;}
+	div.desc
+	{
+	  text-align: center;
+	  font-family: calibri;
+	  font-style:oblique;
+	  font-size:25px;
+	  font-weight: normal;
+	  width: auto;
+	  margin: 5px;
+	}
+	
